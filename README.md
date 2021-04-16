@@ -1,5 +1,6 @@
 # Minor-Project
 ## Renthouse - Website to Connect home owners to home renters
+## Software Required: [XAMPP Server](https://www.apachefriends.org/index.html)
 To run this Web application do the following
 1. Clone this repository to xampp/htdocs
 2. Goto localhost/phpmyadmoin on your default browser
